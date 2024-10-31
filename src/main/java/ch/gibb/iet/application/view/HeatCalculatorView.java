@@ -18,7 +18,7 @@ import javafx.stage.Stage;
 
 /**
  * Represents the main view for the heat calculator ch.gibb.iet.application.
- * @author Ivo Graber
+ * @author Roger Widmer
  * @version 1.0
  * @since 2024
  */

@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  *
- * @author Ivo Graber
+ * @author Roger Widmer
  * @version 1.0
  * @since 2024
  * Represents a generic tank with specific properties.

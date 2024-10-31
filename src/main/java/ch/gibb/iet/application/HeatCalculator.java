@@ -5,7 +5,7 @@ import ch.gibb.iet.application.model.CylindricalTank;
 import ch.gibb.iet.application.model.Tank;
 
 /**
- * @author Ivo Graber
+ * @author Roger Widmer
  * @version 1.0
  * @since 2024
  * The HeatCalculator class is the main class of the ch.gibb.iet.application.
